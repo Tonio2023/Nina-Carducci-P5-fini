@@ -41,7 +41,9 @@ nav a {
 .social-link img {
 	width: 20px;
 }
-
+#slider h2 {
+	display: none;
+}
 #about {
 	display: flex;
 	background-color: #F6D2B8;
